@@ -17,7 +17,7 @@ variable "tipo_instancia" {
 variable "nombre_llave" {
     description = "Mi llave"
     type = string
-    default = "mi-par-llaves-ja"
+    default = "mi-clave"
 }
 variable "cantidad_instancias" {
     description = "Cantidad instancias"
